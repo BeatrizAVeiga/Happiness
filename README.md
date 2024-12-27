@@ -36,7 +36,7 @@ The goal of this project is to understand and analyze happiness metrics worldwid
 ## Database Design
 The database links the **World Happiness Report** and **HDI** datasets using the `Country` as a foreign key. This allows for cross-referencing life expectancy, health metrics, and other key indicators by country.
 
-![Database Design](database_design.png)
+[View the Happiness Presentation (PDF)](Happiness%20Presentation.pdf)
 
 ---
 
