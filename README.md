@@ -1,6 +1,6 @@
 # Happiness Project
 
-![Project Banner](imagebannerh.png)
+![Project Banner](.gitignore/imagebannerh.png)
 
 This project explores global happiness data. It includes analyses of various indices to understand factors influencing well-being.
 
